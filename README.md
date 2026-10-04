@@ -6,10 +6,15 @@ LifeBuddy was built for a hypothetical busy student friend: too many deadlines, 
 
 Everything runs locally. Tasks and plans are stored in your browser's localStorage, and the AI runs on your own machine via [Ollama](https://ollama.com) — no paid API, no data leaving your laptop.
 
-![Dashboard screenshot placeholder](docs/screenshots/dashboard.png)
-![Planner screenshot placeholder](docs/screenshots/planner.png)
+**Live demo:** https://yashspidey.github.io/lifebuddy/ (Demo mode — live AI needs local Ollama)
 
-> Screenshots to be captured after cloning — see the demo script in `docs/DEMO_SCRIPT.md`.
+![LifeBuddy dashboard](docs/screenshots/dashboard.png)
+
+![AI daily planner](docs/screenshots/planner.png)
+
+![Task breakdown](docs/screenshots/breakdown.png)
+
+![Progress & reflection](docs/screenshots/progress.png)
 
 ## Features
 
